@@ -1,6 +1,9 @@
 # World_happinesss_ML
 This GitHub repository contains the code and resources for a web application that uses machine learning to analyze and visualize world happiness data. Website link  - http://happinesspredictor.pythonanywhere.com/ 
 
+#DEMO VIDEO LINK 
+https://drive.google.com/file/d/1Ya8tx5pu0bj9hxJXCH_R-v3eWsIC3_-E/view?usp=share_link 
+
 # World Happiness Machine Learning Website
 
 This web application utilizes machine learning techniques to analyze and visualize world happiness data. The application provides insights into the factors influencing happiness levels across different countries, leveraging various machine learning algorithms for prediction and understanding.
@@ -25,6 +28,3 @@ The machine learning models and predictions in this application are based on his
 Acknowledgements
 
 The world happiness data used in this project is sourced from [kaggle.com].
-
-#DEMO VIDEO LINK 
-https://drive.google.com/file/d/1Ya8tx5pu0bj9hxJXCH_R-v3eWsIC3_-E/view?usp=share_link 
